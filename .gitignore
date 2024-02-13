@@ -7,7 +7,7 @@
 *.log
 
 .idea
-.target
+target/
 
 .DS_Store
 .DS_STORE?
