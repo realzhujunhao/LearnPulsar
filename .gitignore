@@ -1,0 +1,12 @@
+*.exe
+*.so
+*.dll
+*.o
+*.class
+*.jar
+*.log
+
+.idea
+
+.DS_Store
+.DS_STORE?
